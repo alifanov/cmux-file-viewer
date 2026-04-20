@@ -1,0 +1,28 @@
+{
+  "name": "cmux-file-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 2222",
+    "build": "next build",
+    "start": "next start -p 2222"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.9.0",
+  "dependencies": {
+    "@excalidraw/excalidraw": "~0.18.0",
+    "mermaid": "~11.14.0",
+    "next": "~16.2.4",
+    "react": "~19.2.5",
+    "react-dom": "~19.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "~25.6.0",
+    "@types/react": "~19.2.14",
+    "@types/react-dom": "~19.2.3",
+    "typescript": "~6.0.3"
+  }
+}
