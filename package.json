@@ -32,7 +32,8 @@
       "postcss": "^8.5.26",
       "sharp": "^0.35.3",
       "immutable": "^4.3.9",
-      "lodash-es": "^4.18.1"
+      "lodash-es": "^4.18.1",
+      "source-map-js": "^1.2.2"
     }
   }
 }
